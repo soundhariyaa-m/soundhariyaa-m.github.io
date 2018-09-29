@@ -548,7 +548,7 @@ ul li a:hover:after
 
 .pricing h1
 {
-    color:black;
+    color:white;
 }
 .pricing li h3
 {
@@ -1021,6 +1021,10 @@ ul li a:hover:after
     /*background-color: #3399ff;*/
 }
 
+.gmail h1
+{
+	color:white;
+}
 .gmail h2,
 .gmail p {
     
